@@ -1,0 +1,158 @@
+ 
+ 
+ 
+ #Intro h1 {
+     font-family: 'Nova Mono', monospace;
+     font-size: 800px;
+
+          }  
+     
+ #Intro {
+     background-color: rgb(134, 64, 245);}
+     #Intro .bio {
+          animation: flashing 1s infinite;cursor: pointer;
+
+     }
+
+     Body {
+          font-family: 'Poppins', sans-serif;
+     }
+    
+     .navbar {
+          font-family: 'Afacad', sans-serif;
+     }
+
+     .nav-item a:hover {
+          text-decoration: underline;
+      }
+    
+     banner-image {
+          background-image: url('../Assets/Banner.jpeg');
+          background-size: cover;
+          background-position: center;
+          height: 500px;
+          width: 200%;
+
+
+
+
+@media (max-width: 900px) {
+  .static-slider10 .title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+}
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* img {
+        background-image: url(../images/AB_Web.png);
+        float: left;
+        size-adjust: 40%;
+        width: 10%;
+   }
+
+   body {
+        font-family:"Victor Mono";
+        font-size: 12px;
+   }
+
+    header { 
+        font-size: 80px;
+       
+        background-color: #424242;
+        border-color: #423582;
+        padding:60px;
+        text-align: center;
+
+        color: white;
+        font-size: 15px;
+        font-family: "Victor Mono";
+        font-weight: 400;
+
+                                }
+        
+
+
+
+
+
+
+
+
+
+                                img {
+                                   background-image: url(../images/AB_Web.png);
+                                   float: left;
+                                   size-adjust: 40%;
+                                   width: 10%;
+                              }
+                       
+                       header { 
+                                   font-size: 80px;
+                                  
+                                   background-color: #423582;
+                                   border-color: #423582;
+                                   padding:60px;
+                                   text-align: center;
+                                   background: #423582;
+                                   color: white;
+                                   font-size: 15px;
+                                   font-family: "Victor Mono";
+                                   font-weight: 400;
+                                  
+                       }
+                       
+                       .FoundationsofSEO {
+                         border: 5px solid white;
+                         border-radius: 4px;
+                         padding: 5px;
+                         width: 4em;
+                       }
+                       
+                       .Navigation {
+                                   font-size: 14px;
+                                   font-family:"Victor Mono";
+                                   display:flex;
+                                   justify-content: space-evenly; 
+                                   background: #C7ABE9;
+                                   height: 24px;
+                                   padding: 0.5%;
+                                   margin: 0%;
+                       
+                               } */
